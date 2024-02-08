@@ -1,29 +1,16 @@
-# call_log_acess-2
-Call_log_acess app using flutter.
-# Call Log Access App
+# call_log
 
-A Flutter app that allows users to access and view their call log. The app retrieves and displays call history, including details such as caller's name, phone number, call duration, and timestamp. It provides a user-friendly interface for easy navigation and interaction with call log data.
-
-## Features
-
-- Display call log entries with caller's name, number, duration, and timestamp.
-- Dummy data implementation for privacy and testing purposes.
-- Simple and intuitive user interface.
-
-## Screenshots
-
-Include screenshots or GIFs showcasing the app's functionality here.
+A new Flutter project.
 
 ## Getting Started
 
-### Prerequisites
+This project is a starting point for a Flutter application.
 
-- [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/) with Flutter and Dart plugins installed.
+A few resources to get you started if this is your first Flutter project:
 
-### Installation
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Rohitha2129/call_log_access_app.git
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
